@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  bash: &default
+    build: .
+    image: dannyben/rush-sandbox
