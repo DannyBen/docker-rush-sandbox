@@ -1,7 +1,7 @@
 Docker Rush Sandbox
 ==================================================
 
-*Moved to [dannyben/docker-rush](https://github.com/dannyben/docker-rush)*
+## Moved to [dannyben/docker-rush](https://github.com/dannyben/docker-rush)
 
 ---
 
